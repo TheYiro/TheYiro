@@ -1,4 +1,4 @@
-<h1 align="center"> 👨‍💻 𝐉𝐄𝐑𝐎 𝐃𝐞𝐯 </h1>
+<h1 align="center"> 👨‍💻 𝐉𝐎𝐀𝐂𝐎 𝐃𝐞𝐯 </h1>
 
 <h2 align="center"> 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐒𝐓 & 𝐒𝐎𝐂 𝐀𝐍𝐀𝐋𝐘𝐒𝐓 </h2><h4 align="center"><br>ᴀᴘᴀꜱɪᴏɴᴀᴅᴏ ᴘᴏʀ ʟᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ʟᴀ ɪɴᴏᴠᴀᴄɪᴏɴ ʏ ᴇʟ ʜᴀᴄᴋɪɴɢ</br> ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴀɴᴅ ʜᴀᴄᴋɪɴɢ </h4>
 
@@ -119,7 +119,7 @@
 
 - Quantum Computing.
 - CyberSecurity.
-- lasagna. 
+- French Fries. 🍟
 
 
 ---
@@ -127,7 +127,7 @@
 ## 📈 GitHub Statistics
 <h1 align="center">
   
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JoacoDev&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TheYiro&show_icons=true&theme=radical)
 </h1>
 ---
 
