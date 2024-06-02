@@ -1,10 +1,14 @@
-# 👨‍💻 𝓙𝓞𝓐𝓒𝓞
+<h1 align="center"> 👨‍💻 𝐉𝐄𝐑𝐎 𝐃𝐞𝐯 </h1>
 
-<h1 align="center"> 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐒𝐓 & 𝐒𝐎𝐂 𝐀𝐍𝐀𝐋𝐘𝐒𝐓  <br>ᴀᴘᴀꜱɪᴏɴᴀᴅᴏ ᴘᴏʀ ʟᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ʟᴀ ɪɴᴏᴠᴀᴄɪᴏɴ ʏ ᴇʟ ʜᴀᴄᴋɪɴɢ</br> ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴀɴᴅ ʜᴀᴄᴋɪɴɢ </h1>
+<h2 align="center"> 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐒𝐓 & 𝐒𝐎𝐂 𝐀𝐍𝐀𝐋𝐘𝐒𝐓 </h2><h4 align="center"><br>ᴀᴘᴀꜱɪᴏɴᴀᴅᴏ ᴘᴏʀ ʟᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ʟᴀ ɪɴᴏᴠᴀᴄɪᴏɴ ʏ ᴇʟ ʜᴀᴄᴋɪɴɢ</br> ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴀɴᴅ ʜᴀᴄᴋɪɴɢ </h4>
+
+
+
 
 ---
+<p>Hi there👋, I'm Jero, but everyone calls me Joaco✨ </p>
 
-### 📫 Contáctate conmigo ◈ Contact Me.
+<h2> 📫 Contáctate conmigo ◈ Contact Me. </h2>
 
 <h1 align="center">
   
@@ -15,7 +19,7 @@
 
 ---
 
-### 💼 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
+<h2> 💼 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞</h2>
 
 - **SOC ANALYST** en **ATN**
   - Preparation and leadership of SOC departments.
@@ -34,9 +38,9 @@
 
 ---
 
-### 🛠️ 𝐒𝐤𝐢𝐥𝐥𝐬
+<h2>🛠️ 𝐒𝐤𝐢𝐥𝐥𝐬 </h2>
 
-**Programming Languages**
+#### **Programming Languages**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,12 +56,12 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)</br>
 
-**Frontend**
+#### **Frontend**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-**Backend**
+#### **Backend**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -71,7 +75,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps**
+#### **DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -81,7 +85,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**Others**
+#### **Others**
 
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -95,7 +99,7 @@
 
 ---
 
-### 📚 Education
+## 📚 Education
 
 - **Computer Systems Engineering** - **Technological University**
   - Extensive participation in research and development projects
@@ -104,22 +108,23 @@
 
 ---
 
-### 💬 Languages
+## 💬 Languages
 
 - **Spanish**: Native
 - **Englishs**: Middle
 
 ---
 
-### 🚀 Interests
+## 🚀 Interests
 
 - Quantum Computing.
 - CyberSecurity.
-- lasagna.
+- lasagna. 
+
 
 ---
 
-### 📈 GitHub Statistics
+## 📈 GitHub Statistics
 <h1 align="center">
   
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JoacoDev&show_icons=true&theme=radical)
@@ -148,4 +153,4 @@
 ⠀⣰⠃⠀⢀⡴⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣼⠀⡜⠁⠀⠀⠀⠸⡀⠀⠀⠈⢇⠀⠀⠘⡇⠀⠀⡇⠀⠀⠀
 ⢀⡏⠀⠀⢸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡟⢸⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⢸⣆⠀⠀⣿⠀⠀⡇⠀⠀⠀
 ⠈⣧⡀⠀⠀⠑⠦⢄⣀⣀⡀⠀⢀⣀⣀⣀⣀⠤⠤⠔⠒⠚⠉⠉⠁⠀⡠⠀⠀⠀⠀⢀⡤⠯⣄⡀⠀⡼⠛⡄⠀⢹⣶⠆⠧⢄⠀⠀
-⠀⠙⠫⠤⣄⣀⡀⠀⠀⠀⣈⣉⣁⣀⣠⠤⠤⠴⠒⠒⠒⠚⠋⠉⠉⠛⠛⠷⠴⠶⠮⠥⠤⠧⠼⠛⠉⠉⠁⠱⢄⣰⣈⠿⠤⠧⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠙⠫⠤⣄⣀⡀⢀⣀⣀⣈⣉⣁⣀⣠⠤⠤⠴⠒⠒⠒⠚⠋⠉⠉⠛⠛⠷⠴⠶⠮⠥⠤⠧⠼⠛⠉⠉⠁⠱⢄⣰⣈⠿⠤⠧⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
