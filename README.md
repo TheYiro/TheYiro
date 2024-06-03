@@ -23,17 +23,17 @@
 
 <h2> 💼 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞</h2>
 
-- **SOC ANALYST** en **ATN**
+- **SOC ANALYST** at **ATN**
   - Preparation and leadership of SOC departments.
   - Monitoring in the Security Operations Center.
   - Carrying out penetration testing and vulnerability analysis.
 
-- **CYBERSECURITY SPECIALIST** en **CodeArmor**
+- **CYBERSECURITY SPECIALIST** at **CodeArmor**
   - Audits and sponsorship of technical candidates.
   - Development and implementation of security measures.
   - Security risk assessment and mitigation.
 
-- **NOC** en **ATN**
+- **NOC** at **ATN**
   - Network Monitoring.
   - Response to the Incident.
   - Vulnerability Hunter.
