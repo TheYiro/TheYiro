@@ -1,6 +1,6 @@
 <h1 align="center"> 👨‍💻 𝐉𝐎𝐀𝐂𝐎 𝐃𝐞𝐯 </h1>
 
-<h2 align="center"> 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐒𝐓 & 𝐒𝐎𝐂 𝐀𝐍𝐀𝐋𝐘𝐒𝐓 </h2><h4 align="center"><br>ᴀᴘᴀꜱɪᴏɴᴀᴅᴏ ᴘᴏʀ ʟᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ʟᴀ ɪɴᴏᴠᴀᴄɪᴏɴ ʏ ᴇʟ ʜᴀᴄᴋɪɴɢ</br> ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴀɴᴅ ʜᴀᴄᴋɪɴɢ </h4>
+<h2 align="center"> 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐒𝐓 & 𝐒𝐎𝐂 𝐀𝐍𝐀𝐋𝐘𝐒𝐓 </h2><h3 align="center"><br>ᴀᴘᴀꜱɪᴏɴᴀᴅᴏ ᴘᴏʀ ʟᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ʟᴀ ɪɴᴏᴠᴀᴄɪᴏɴ ʏ ᴇʟ ʜᴀᴄᴋɪɴɢ</br> ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴀɴᴅ ʜᴀᴄᴋɪɴɢ </h3>
 
 
 
@@ -15,6 +15,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ze-ro-850b022b5)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yirorp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=yiroantiscamspam@gmail.com&su=MOTIVO%20CONTACTO&=BODY&bcc=yiroantiscamspam@gmail.com&tf=cm)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/690089670457032786)
+
 </h1>
 
 ---
@@ -125,10 +127,13 @@
 ---
 
 ## 📈 GitHub Statistics
-<h1 align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TheYiro&show_icons=true&theme=radical)
-</h1>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheYiro" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheYiro&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ---
 
 🌟¡Gracias por visitar mi perfil! No dudes en contactarme para discutir posibles colaboraciones o simplemente para hablar sobre tecnología.
