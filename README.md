@@ -107,7 +107,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+
 ---
+
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
 
 ## 📚 Education
 
@@ -147,7 +151,11 @@
 </a>
 </center>
 
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+
 ---
+
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
 
 🌟¡Gracias por visitar mi perfil! No dudes en contactarme para discutir posibles colaboraciones o simplemente para hablar sobre tecnología.
 <br>Thank you for visiting my profile! Feel free to contact me to discuss possible collaborations or just to talk about technology.🌟</br>
