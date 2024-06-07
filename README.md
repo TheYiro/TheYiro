@@ -19,11 +19,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ze-ro-850b022b5)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yirorp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=yiroantiscamspam@gmail.com&su=MOTIVO%20CONTACTO&=BODY&bcc=yiroantiscamspam@gmail.com&tf=cm)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/690089670457032786)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/690089670457032786) <br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&random=false&width=450&lines=If+you+are+going+to+think+the+same+way%2C+think+big.+;Si+de+igual+forma+vas+a+pensar%2C+piensa+en+grande.+)
 
 </h1>
 
-
+---
 
 <h2> 💼 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞</h2>
 
