@@ -1,14 +1,14 @@
 ---
 
-![Banner JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247272183684665345/IMG_20240603_142757.jpg?ex=665f6c3d&is=665e1abd&hm=3261a9eecdda4b82cf68cf093931843c0f5b93525fba5a4d08f5e6d2cfab5d6b&)
+![Banner JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247272183684665345/IMG_20240603_142757.jpg?ex=66694f7d&is=6667fdfd&hm=83f40f47aec89576f0ff9319b39f53eba1f4181e081ef7223b6deb6bc82243d5&)
 
 <h2 align="center"> 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐒𝐓 & 𝐒𝐎𝐂 𝐀𝐍𝐀𝐋𝐘𝐒𝐓 </h2><h3 align="center"><br>ᴀᴘᴀꜱɪᴏɴᴀᴅᴏ ᴘᴏʀ ʟᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ʟᴀ ɪɴᴏᴠᴀᴄɪᴏɴ ʏ ᴇʟ ʜᴀᴄᴋɪɴɢ</br> ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴀɴᴅ ʜᴀᴄᴋɪɴɢ </h3>
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 ---
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 <p>Hi there👋, I'm Jero, but everyone calls me Joaco✨ </p>
 
@@ -43,11 +43,11 @@
   - Response to the Incident.
   - Vulnerability Hunter.
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 ---
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 <h2>🛠️ 𝐒𝐤𝐢𝐥𝐥𝐬 </h2>
 
@@ -108,11 +108,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 ---
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 ## 📚 Education
 
@@ -140,7 +140,7 @@
 
 ---
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 ## 📈 GitHub Statistics
 <center>
@@ -152,11 +152,11 @@
 </a>
 </center>
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 ---
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
 
 🌟¡Gracias por visitar mi perfil! No dudes en contactarme para discutir posibles colaboraciones o simplemente para hablar sobre tecnología.
 <br>Thank you for visiting my profile! Feel free to contact me to discuss possible collaborations or just to talk about technology.🌟</br>
@@ -183,4 +183,4 @@
 ⠀⠙⠫⠤⣄⣀⡀⢀⣀⣀⣈⣉⣁⣀⣠⠤⠤⠴⠒⠒⠒⠚⠋⠉⠉⠛⠛⠷⠴⠶⠮⠥⠤⠧⠼⠛⠉⠉⠁⠱⢄⣰⣈⠿⠤⠧⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=665f6ef4&is=665e1d74&hm=b8799d5359c140679893cc1a1d91c7bd9ccab2f7e230362dab1eba775140a000&)
+![JoacoDev](https://cdn.discordapp.com/attachments/770877999599190056/1247275097786417273/IMG_20240603_144547.jpg?ex=66695234&is=666800b4&hm=6cf5f37e3cd7328d571aca65a074f304f37c248d7f432a8a33417f605a7ce997&)
