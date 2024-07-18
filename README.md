@@ -150,14 +150,10 @@
 ![JoacoDev](https://i.ibb.co/n6Jx7x6/joaco.jpg)
 
 ## 📈 GitHub Statistics
-<center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheYiro" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheYiro&layout=compact&langs_count=8&card_width=320" />
-</a>
-</center>
+
+<div align="center">
+  <img src="https://myreadme.vercel.app/api/embed/TheYiro?panels=userstatistics,toprepositories,toplanguages,commitgraph" />
+</div>
 
 ![JoacoDev](https://i.ibb.co/n6Jx7x6/joaco.jpg)
 
