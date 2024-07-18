@@ -24,6 +24,10 @@
 
 </h1>
 
+---
+
+<p>🙌 Im current learning: BlockChain </p>
+
 ![JoacoDev](https://i.ibb.co/n6Jx7x6/joaco.jpg)
 
 ---
