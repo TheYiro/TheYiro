@@ -1,6 +1,6 @@
 ---
 
-![Banner JoacoDev](https://i.ibb.co/37CKYqQ/joacodevbanner.jpg)
+![Banner JoacoDev](https://ibb.co/x1q0nFx) 
 
 <h2 align="center"> 𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐒𝐓 & 𝐒𝐎𝐂 𝐀𝐍𝐀𝐋𝐘𝐒𝐓 </h2><h3 align="center"><br>ᴀᴘᴀꜱɪᴏɴᴀᴅᴏ ᴘᴏʀ ʟᴀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ʟᴀ ɪɴᴏᴠᴀᴄɪᴏɴ ʏ ᴇʟ ʜᴀᴄᴋɪɴɢ</br> ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴀɴᴅ ʜᴀᴄᴋɪɴɢ </h3>
 
